@@ -1,7 +1,7 @@
 {
   "name": "@abdulkaderptp/tsdx",
   "version": "1.0.0",
-  "author": "Abdul Kader <jared@palmer.net>",
+  "author": "Abdul Kader <ak@itsak.in>",
   "description": "Fork of tsdx - Zero-config TypeScript package development",
   "license": "MIT",
   "homepage": "https://github.com/abdulkader/tsdx",
